@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/_deps/qmqtt-subbuild/CMakeFiles/qmqtt-populate"
+		},
+		{
+			"file" : "/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/_deps/qmqtt-subbuild/CMakeFiles/qmqtt-populate.rule"
+		},
+		{
+			"file" : "/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/_deps/qmqtt-subbuild/CMakeFiles/qmqtt-populate-complete.rule"
+		},
+		{
+			"file" : "/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/_deps/qmqtt-subbuild/qmqtt-populate-prefix/src/qmqtt-populate-stamp/qmqtt-populate-build.rule"
+		},
+		{
+			"file" : "/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/_deps/qmqtt-subbuild/qmqtt-populate-prefix/src/qmqtt-populate-stamp/qmqtt-populate-configure.rule"
+		},
+		{
+			"file" : "/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/_deps/qmqtt-subbuild/qmqtt-populate-prefix/src/qmqtt-populate-stamp/qmqtt-populate-download.rule"
+		},
+		{
+			"file" : "/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/_deps/qmqtt-subbuild/qmqtt-populate-prefix/src/qmqtt-populate-stamp/qmqtt-populate-install.rule"
+		},
+		{
+			"file" : "/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/_deps/qmqtt-subbuild/qmqtt-populate-prefix/src/qmqtt-populate-stamp/qmqtt-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/_deps/qmqtt-subbuild/qmqtt-populate-prefix/src/qmqtt-populate-stamp/qmqtt-populate-patch.rule"
+		},
+		{
+			"file" : "/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/_deps/qmqtt-subbuild/qmqtt-populate-prefix/src/qmqtt-populate-stamp/qmqtt-populate-test.rule"
+		},
+		{
+			"file" : "/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/_deps/qmqtt-subbuild/qmqtt-populate-prefix/src/qmqtt-populate-stamp/qmqtt-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"qmqtt-populate"
+		],
+		"name" : "qmqtt-populate"
+	}
+}

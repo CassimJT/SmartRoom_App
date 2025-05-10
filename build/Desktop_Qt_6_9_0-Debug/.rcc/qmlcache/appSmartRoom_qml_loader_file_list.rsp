@@ -1,0 +1,6 @@
+--resource
+/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/qmake_SmartRoom.qrc
+--resource
+/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/appSmartRoom_raw_qml_0.qrc
+/qt/qml/SmartRoom/Main.qml
+/qt/qml/SmartRoom/CircularProgressBar.qml

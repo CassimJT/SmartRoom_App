@@ -1,0 +1,10 @@
+-I
+/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom
+-I
+/opt/Qt/6.9.0/android_armv7/qml
+--resource
+/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/.qt/rcc/qmake_SmartRoom.qrc
+--resource
+/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/.qt/rcc/appSmartRoom_raw_qml_0.qrc
+--module
+SmartRoom

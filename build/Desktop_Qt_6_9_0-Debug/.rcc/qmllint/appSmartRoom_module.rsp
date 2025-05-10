@@ -1,0 +1,10 @@
+-I
+/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/build/Desktop_Qt_6_9_0-Debug
+-I
+/opt/Qt/6.9.0/gcc_64/qml
+--resource
+/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/qmake_SmartRoom.qrc
+--resource
+/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/appSmartRoom_raw_qml_0.qrc
+--module
+SmartRoom

@@ -1,0 +1,2 @@
+#!/bin/sh
+/tmp/bin/qt-configure-module /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom -redo "$@"

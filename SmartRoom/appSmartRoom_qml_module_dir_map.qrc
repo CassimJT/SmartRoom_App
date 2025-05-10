@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/SmartRoom">/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/SmartRoom</file>
+
+  </qresource>
+</RCC>

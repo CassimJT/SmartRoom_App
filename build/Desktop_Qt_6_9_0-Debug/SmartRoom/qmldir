@@ -1,0 +1,6 @@
+module SmartRoom
+typeinfo appSmartRoom.qmltypes
+prefer :/qt/qml/SmartRoom/
+Main 1.0 Main.qml
+CircularProgressBar 1.0 CircularProgressBar.qml
+

@@ -1,0 +1,354 @@
+-- Merging decision tree log ---
+provider#androidx.core.content.FileProvider
+INJECTED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:16:9-18:20
+	android:grantUriPermissions
+		ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:16:144-178
+	android:authorities
+		INJECTED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml
+		ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:16:69-118
+	android:exported
+		ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:16:119-143
+	android:name
+		ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:16:19-68
+manifest
+ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:2:1-20:12
+INJECTED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:2:1-20:12
+INJECTED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:2:1-20:12
+INJECTED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.android.material:material:1.10.0] /home/cassim/.gradle/caches/8.12/transforms/f9d868878eb83e9b0c3f5d8b4ec60dff/transformed/material-1.10.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/cassim/.gradle/caches/8.12/transforms/3b236b1e1392b1027fb4569e79fb1d3e/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/cassim/.gradle/caches/8.12/transforms/95757ac7b54cf2d69bf340fbddc02fa3/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/cassim/.gradle/caches/8.12/transforms/4846d3c74a8713587b5b8572aac7576d/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/cassim/.gradle/caches/8.12/transforms/2d6c437b539d7ba6a2208654b54eb49c/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/cassim/.gradle/caches/8.12/transforms/0b93afaba47f83455473801d3da3cd7c/transformed/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/cassim/.gradle/caches/8.12/transforms/8dc589d3ead6dc751931f75f9b985f6a/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /home/cassim/.gradle/caches/8.12/transforms/856aaffd9e9be664458241313ed5a160/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] /home/cassim/.gradle/caches/8.12/transforms/31addba0685077e2111d41a91e4b5482/transformed/activity-1.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/cassim/.gradle/caches/8.12/transforms/32ee762e800bcfd5404538be4ddabc82/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/cassim/.gradle/caches/8.12/transforms/b36b9f9f0a3e0148899cfb3ee854aafb/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/cassim/.gradle/caches/8.12/transforms/03040df3826d1b74beea4dbbd30e27a9/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/cassim/.gradle/caches/8.12/transforms/6dc2ff03c8132bee0b8bc3534846e993/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/cassim/.gradle/caches/8.12/transforms/af1a2300dfe2e4e220a37b4b23ea0a4b/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/cassim/.gradle/caches/8.12/transforms/250c2938e30e1f0f9c7b527aa7eae3c6/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/cassim/.gradle/caches/8.12/transforms/fd15b5bcc9dfa684c771f01ff7f89263/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/cassim/.gradle/caches/8.12/transforms/efcdb056c77ecfdce28ae623cd7f33c9/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/cassim/.gradle/caches/8.12/transforms/97d804ade5479cbdee6d72a2d6093ca6/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/cassim/.gradle/caches/8.12/transforms/8b4c0a1f4751a9eceac4d6938fc338d2/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.1] /home/cassim/.gradle/caches/8.12/transforms/f72b1e2fd3465c9ed95ed284cdd6241f/transformed/core-ktx-1.13.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/cassim/.gradle/caches/8.12/transforms/cc80c4831406d092892ccfc7d685c441/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/cassim/.gradle/caches/8.12/transforms/cb70fbbb83e540064660ddfd0ced2e46/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /home/cassim/.gradle/caches/8.12/transforms/f68158a4e8d80121ef861c6e7459427a/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/cassim/.gradle/caches/8.12/transforms/05845d8c33ae3d5f516e163e45957e53/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/cassim/.gradle/caches/8.12/transforms/01d2aaf671f1c45cc41fbd8b9f564874/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/cassim/.gradle/caches/8.12/transforms/81b293081c4aabedad3e7675bf28256e/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/cassim/.gradle/caches/8.12/transforms/da780f36cd4aa792125dc757b0dc1d56/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /home/cassim/.gradle/caches/8.12/transforms/70c149065f9811c56ade87081ec8e82f/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.13.1] /home/cassim/.gradle/caches/8.12/transforms/6333199e01c11a086be1a63e1258fadd/transformed/core-1.13.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/cassim/.gradle/caches/8.12/transforms/4c3ca771abed64b70370a93954df21e0/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/cassim/.gradle/caches/8.12/transforms/11325bc04b0d3d6a13d0cf683915bbe4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/cassim/.gradle/caches/8.12/transforms/9b8830cfb37f3dfd3b5241db8af3ab66/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/cassim/.gradle/caches/8.12/transforms/9479275d6545e893f0cfe18c34eca6b5/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/cassim/.gradle/caches/8.12/transforms/5c61a7fe28780313b8dfd1000b17457b/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/cassim/.gradle/caches/8.12/transforms/b69fddadd08775edbdbfcc16b1ca3b40/transformed/profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/cassim/.gradle/caches/8.12/transforms/66ef5ded101de47073ce566a6d2e608d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/cassim/.gradle/caches/8.12/transforms/ad76f1171ab163f1f2ba1ae64a022119/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/cassim/.gradle/caches/8.12/transforms/637f687ba2522fe6093fa2464771bebe/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/cassim/.gradle/caches/8.12/transforms/b202c206fd48b80f861582bb12e21b21/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/cassim/.gradle/caches/8.12/transforms/75cc4c28fefd1823bb01ab26b4c56a63/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/cassim/.gradle/caches/8.12/transforms/e051e927e1a82fff8c9bd301b1319691/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+	package
+		ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:2:70-114
+		INJECTED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:2:170-195
+		INJECTED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:2:146-169
+		INJECTED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml
+	android:installLocation
+		ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:2:115-145
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:3:5-80
+	android:name
+		ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:3:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:4:5-68
+	android:name
+		ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:5:5-82
+	android:name
+		ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:5:22-78
+supports-screens
+ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:6:5-135
+	android:largeScreens
+		ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:6:49-76
+	android:smallScreens
+		ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:6:106-133
+	android:normalScreens
+		ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:6:77-105
+	android:anyDensity
+		ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:6:23-48
+application
+ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:7:5-19:19
+INJECTED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:7:5-19:19
+MERGED from [com.google.android.material:material:1.10.0] /home/cassim/.gradle/caches/8.12/transforms/f9d868878eb83e9b0c3f5d8b4ec60dff/transformed/material-1.10.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.10.0] /home/cassim/.gradle/caches/8.12/transforms/f9d868878eb83e9b0c3f5d8b4ec60dff/transformed/material-1.10.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/cassim/.gradle/caches/8.12/transforms/95757ac7b54cf2d69bf340fbddc02fa3/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/cassim/.gradle/caches/8.12/transforms/95757ac7b54cf2d69bf340fbddc02fa3/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/cassim/.gradle/caches/8.12/transforms/0b93afaba47f83455473801d3da3cd7c/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/cassim/.gradle/caches/8.12/transforms/0b93afaba47f83455473801d3da3cd7c/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/cassim/.gradle/caches/8.12/transforms/250c2938e30e1f0f9c7b527aa7eae3c6/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/cassim/.gradle/caches/8.12/transforms/250c2938e30e1f0f9c7b527aa7eae3c6/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.1] /home/cassim/.gradle/caches/8.12/transforms/6333199e01c11a086be1a63e1258fadd/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] /home/cassim/.gradle/caches/8.12/transforms/6333199e01c11a086be1a63e1258fadd/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/cassim/.gradle/caches/8.12/transforms/11325bc04b0d3d6a13d0cf683915bbe4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/cassim/.gradle/caches/8.12/transforms/11325bc04b0d3d6a13d0cf683915bbe4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/cassim/.gradle/caches/8.12/transforms/b69fddadd08775edbdbfcc16b1ca3b40/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/cassim/.gradle/caches/8.12/transforms/b69fddadd08775edbdbfcc16b1ca3b40/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/cassim/.gradle/caches/8.12/transforms/66ef5ded101de47073ce566a6d2e608d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/cassim/.gradle/caches/8.12/transforms/66ef5ded101de47073ce566a6d2e608d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml
+	android:requestLegacyExternalStorage
+		ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:7:207-250
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] /home/cassim/.gradle/caches/8.12/transforms/6333199e01c11a086be1a63e1258fadd/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:7:150-176
+	android:hardwareAccelerated
+		ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:7:115-149
+	android:icon
+		ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:7:177-206
+	android:allowBackup
+		ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:7:251-277
+	android:theme
+		ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:7:18-51
+	android:fullBackupOnly
+		ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:7:278-308
+	android:name
+		ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:7:52-114
+activity#org.qtproject.qt.android.bindings.QtActivity
+ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:8:9-15:20
+	android:screenOrientation
+		ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:8:280-319
+	android:label
+		ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:8:344-370
+	android:launchMode
+		ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:8:249-279
+	android:exported
+		ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:8:320-343
+	android:configChanges
+		ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:8:79-248
+	android:name
+		ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:8:19-78
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:9:13-12:29
+action#android.intent.action.MAIN
+ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:10:17-68
+	android:name
+		ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:10:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:11:17-76
+	android:name
+		ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:11:27-74
+meta-data#android.app.lib_name
+ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:13:13-90
+	android:value
+		ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:13:60-88
+	android:name
+		ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:13:24-59
+meta-data#android.app.arguments
+ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:14:13-79
+	android:value
+		ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:14:61-77
+	android:name
+		ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:14:24-60
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:17:13-117
+	android:resource
+		ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:17:75-115
+	android:name
+		ADDED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml:17:24-74
+uses-sdk
+INJECTED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml
+INJECTED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.10.0] /home/cassim/.gradle/caches/8.12/transforms/f9d868878eb83e9b0c3f5d8b4ec60dff/transformed/material-1.10.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.10.0] /home/cassim/.gradle/caches/8.12/transforms/f9d868878eb83e9b0c3f5d8b4ec60dff/transformed/material-1.10.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/cassim/.gradle/caches/8.12/transforms/3b236b1e1392b1027fb4569e79fb1d3e/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/cassim/.gradle/caches/8.12/transforms/3b236b1e1392b1027fb4569e79fb1d3e/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/cassim/.gradle/caches/8.12/transforms/95757ac7b54cf2d69bf340fbddc02fa3/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/cassim/.gradle/caches/8.12/transforms/95757ac7b54cf2d69bf340fbddc02fa3/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/cassim/.gradle/caches/8.12/transforms/4846d3c74a8713587b5b8572aac7576d/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/cassim/.gradle/caches/8.12/transforms/4846d3c74a8713587b5b8572aac7576d/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/cassim/.gradle/caches/8.12/transforms/2d6c437b539d7ba6a2208654b54eb49c/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/cassim/.gradle/caches/8.12/transforms/2d6c437b539d7ba6a2208654b54eb49c/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/cassim/.gradle/caches/8.12/transforms/0b93afaba47f83455473801d3da3cd7c/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/cassim/.gradle/caches/8.12/transforms/0b93afaba47f83455473801d3da3cd7c/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/cassim/.gradle/caches/8.12/transforms/8dc589d3ead6dc751931f75f9b985f6a/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/cassim/.gradle/caches/8.12/transforms/8dc589d3ead6dc751931f75f9b985f6a/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/cassim/.gradle/caches/8.12/transforms/856aaffd9e9be664458241313ed5a160/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/cassim/.gradle/caches/8.12/transforms/856aaffd9e9be664458241313ed5a160/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] /home/cassim/.gradle/caches/8.12/transforms/31addba0685077e2111d41a91e4b5482/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] /home/cassim/.gradle/caches/8.12/transforms/31addba0685077e2111d41a91e4b5482/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/cassim/.gradle/caches/8.12/transforms/32ee762e800bcfd5404538be4ddabc82/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/cassim/.gradle/caches/8.12/transforms/32ee762e800bcfd5404538be4ddabc82/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/cassim/.gradle/caches/8.12/transforms/b36b9f9f0a3e0148899cfb3ee854aafb/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/cassim/.gradle/caches/8.12/transforms/b36b9f9f0a3e0148899cfb3ee854aafb/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/cassim/.gradle/caches/8.12/transforms/03040df3826d1b74beea4dbbd30e27a9/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/cassim/.gradle/caches/8.12/transforms/03040df3826d1b74beea4dbbd30e27a9/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/cassim/.gradle/caches/8.12/transforms/6dc2ff03c8132bee0b8bc3534846e993/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/cassim/.gradle/caches/8.12/transforms/6dc2ff03c8132bee0b8bc3534846e993/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/cassim/.gradle/caches/8.12/transforms/af1a2300dfe2e4e220a37b4b23ea0a4b/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/cassim/.gradle/caches/8.12/transforms/af1a2300dfe2e4e220a37b4b23ea0a4b/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/cassim/.gradle/caches/8.12/transforms/250c2938e30e1f0f9c7b527aa7eae3c6/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/cassim/.gradle/caches/8.12/transforms/250c2938e30e1f0f9c7b527aa7eae3c6/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/cassim/.gradle/caches/8.12/transforms/fd15b5bcc9dfa684c771f01ff7f89263/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/cassim/.gradle/caches/8.12/transforms/fd15b5bcc9dfa684c771f01ff7f89263/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/cassim/.gradle/caches/8.12/transforms/efcdb056c77ecfdce28ae623cd7f33c9/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/cassim/.gradle/caches/8.12/transforms/efcdb056c77ecfdce28ae623cd7f33c9/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/cassim/.gradle/caches/8.12/transforms/97d804ade5479cbdee6d72a2d6093ca6/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/cassim/.gradle/caches/8.12/transforms/97d804ade5479cbdee6d72a2d6093ca6/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/cassim/.gradle/caches/8.12/transforms/8b4c0a1f4751a9eceac4d6938fc338d2/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/cassim/.gradle/caches/8.12/transforms/8b4c0a1f4751a9eceac4d6938fc338d2/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /home/cassim/.gradle/caches/8.12/transforms/f72b1e2fd3465c9ed95ed284cdd6241f/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /home/cassim/.gradle/caches/8.12/transforms/f72b1e2fd3465c9ed95ed284cdd6241f/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/cassim/.gradle/caches/8.12/transforms/cc80c4831406d092892ccfc7d685c441/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/cassim/.gradle/caches/8.12/transforms/cc80c4831406d092892ccfc7d685c441/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/cassim/.gradle/caches/8.12/transforms/cb70fbbb83e540064660ddfd0ced2e46/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/cassim/.gradle/caches/8.12/transforms/cb70fbbb83e540064660ddfd0ced2e46/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/cassim/.gradle/caches/8.12/transforms/f68158a4e8d80121ef861c6e7459427a/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/cassim/.gradle/caches/8.12/transforms/f68158a4e8d80121ef861c6e7459427a/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/cassim/.gradle/caches/8.12/transforms/05845d8c33ae3d5f516e163e45957e53/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/cassim/.gradle/caches/8.12/transforms/05845d8c33ae3d5f516e163e45957e53/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/cassim/.gradle/caches/8.12/transforms/01d2aaf671f1c45cc41fbd8b9f564874/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/cassim/.gradle/caches/8.12/transforms/01d2aaf671f1c45cc41fbd8b9f564874/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/cassim/.gradle/caches/8.12/transforms/81b293081c4aabedad3e7675bf28256e/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/cassim/.gradle/caches/8.12/transforms/81b293081c4aabedad3e7675bf28256e/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/cassim/.gradle/caches/8.12/transforms/da780f36cd4aa792125dc757b0dc1d56/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/cassim/.gradle/caches/8.12/transforms/da780f36cd4aa792125dc757b0dc1d56/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/cassim/.gradle/caches/8.12/transforms/70c149065f9811c56ade87081ec8e82f/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/cassim/.gradle/caches/8.12/transforms/70c149065f9811c56ade87081ec8e82f/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.13.1] /home/cassim/.gradle/caches/8.12/transforms/6333199e01c11a086be1a63e1258fadd/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] /home/cassim/.gradle/caches/8.12/transforms/6333199e01c11a086be1a63e1258fadd/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/cassim/.gradle/caches/8.12/transforms/4c3ca771abed64b70370a93954df21e0/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/cassim/.gradle/caches/8.12/transforms/4c3ca771abed64b70370a93954df21e0/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/cassim/.gradle/caches/8.12/transforms/11325bc04b0d3d6a13d0cf683915bbe4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/cassim/.gradle/caches/8.12/transforms/11325bc04b0d3d6a13d0cf683915bbe4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/cassim/.gradle/caches/8.12/transforms/9b8830cfb37f3dfd3b5241db8af3ab66/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/cassim/.gradle/caches/8.12/transforms/9b8830cfb37f3dfd3b5241db8af3ab66/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/cassim/.gradle/caches/8.12/transforms/9479275d6545e893f0cfe18c34eca6b5/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/cassim/.gradle/caches/8.12/transforms/9479275d6545e893f0cfe18c34eca6b5/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/cassim/.gradle/caches/8.12/transforms/5c61a7fe28780313b8dfd1000b17457b/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/cassim/.gradle/caches/8.12/transforms/5c61a7fe28780313b8dfd1000b17457b/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/cassim/.gradle/caches/8.12/transforms/b69fddadd08775edbdbfcc16b1ca3b40/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/cassim/.gradle/caches/8.12/transforms/b69fddadd08775edbdbfcc16b1ca3b40/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/cassim/.gradle/caches/8.12/transforms/66ef5ded101de47073ce566a6d2e608d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/cassim/.gradle/caches/8.12/transforms/66ef5ded101de47073ce566a6d2e608d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/cassim/.gradle/caches/8.12/transforms/ad76f1171ab163f1f2ba1ae64a022119/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/cassim/.gradle/caches/8.12/transforms/ad76f1171ab163f1f2ba1ae64a022119/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/cassim/.gradle/caches/8.12/transforms/637f687ba2522fe6093fa2464771bebe/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/cassim/.gradle/caches/8.12/transforms/637f687ba2522fe6093fa2464771bebe/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/cassim/.gradle/caches/8.12/transforms/b202c206fd48b80f861582bb12e21b21/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/cassim/.gradle/caches/8.12/transforms/b202c206fd48b80f861582bb12e21b21/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/cassim/.gradle/caches/8.12/transforms/75cc4c28fefd1823bb01ab26b4c56a63/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/cassim/.gradle/caches/8.12/transforms/75cc4c28fefd1823bb01ab26b4c56a63/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/cassim/.gradle/caches/8.12/transforms/e051e927e1a82fff8c9bd301b1319691/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/cassim/.gradle/caches/8.12/transforms/e051e927e1a82fff8c9bd301b1319691/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /home/cassim/.gradle/caches/8.12/transforms/0b93afaba47f83455473801d3da3cd7c/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/cassim/.gradle/caches/8.12/transforms/250c2938e30e1f0f9c7b527aa7eae3c6/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/cassim/.gradle/caches/8.12/transforms/250c2938e30e1f0f9c7b527aa7eae3c6/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/cassim/.gradle/caches/8.12/transforms/b69fddadd08775edbdbfcc16b1ca3b40/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/cassim/.gradle/caches/8.12/transforms/b69fddadd08775edbdbfcc16b1ca3b40/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/cassim/.gradle/caches/8.12/transforms/66ef5ded101de47073ce566a6d2e608d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/cassim/.gradle/caches/8.12/transforms/66ef5ded101de47073ce566a6d2e608d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/cassim/.gradle/caches/8.12/transforms/0b93afaba47f83455473801d3da3cd7c/transformed/emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/cassim/.gradle/caches/8.12/transforms/0b93afaba47f83455473801d3da3cd7c/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/cassim/.gradle/caches/8.12/transforms/0b93afaba47f83455473801d3da3cd7c/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/cassim/.gradle/caches/8.12/transforms/0b93afaba47f83455473801d3da3cd7c/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /home/cassim/.gradle/caches/8.12/transforms/0b93afaba47f83455473801d3da3cd7c/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/cassim/.gradle/caches/8.12/transforms/0b93afaba47f83455473801d3da3cd7c/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/cassim/.gradle/caches/8.12/transforms/0b93afaba47f83455473801d3da3cd7c/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/cassim/.gradle/caches/8.12/transforms/250c2938e30e1f0f9c7b527aa7eae3c6/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/cassim/.gradle/caches/8.12/transforms/250c2938e30e1f0f9c7b527aa7eae3c6/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/cassim/.gradle/caches/8.12/transforms/250c2938e30e1f0f9c7b527aa7eae3c6/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /home/cassim/.gradle/caches/8.12/transforms/6333199e01c11a086be1a63e1258fadd/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /home/cassim/.gradle/caches/8.12/transforms/6333199e01c11a086be1a63e1258fadd/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /home/cassim/.gradle/caches/8.12/transforms/6333199e01c11a086be1a63e1258fadd/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+permission#org.qtproject.example.appSmartRoom.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /home/cassim/.gradle/caches/8.12/transforms/6333199e01c11a086be1a63e1258fadd/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /home/cassim/.gradle/caches/8.12/transforms/6333199e01c11a086be1a63e1258fadd/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /home/cassim/.gradle/caches/8.12/transforms/6333199e01c11a086be1a63e1258fadd/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /home/cassim/.gradle/caches/8.12/transforms/6333199e01c11a086be1a63e1258fadd/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /home/cassim/.gradle/caches/8.12/transforms/6333199e01c11a086be1a63e1258fadd/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+uses-permission#org.qtproject.example.appSmartRoom.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /home/cassim/.gradle/caches/8.12/transforms/6333199e01c11a086be1a63e1258fadd/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /home/cassim/.gradle/caches/8.12/transforms/6333199e01c11a086be1a63e1258fadd/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/cassim/.gradle/caches/8.12/transforms/b69fddadd08775edbdbfcc16b1ca3b40/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/cassim/.gradle/caches/8.12/transforms/b69fddadd08775edbdbfcc16b1ca3b40/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/cassim/.gradle/caches/8.12/transforms/b69fddadd08775edbdbfcc16b1ca3b40/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/cassim/.gradle/caches/8.12/transforms/b69fddadd08775edbdbfcc16b1ca3b40/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/cassim/.gradle/caches/8.12/transforms/b69fddadd08775edbdbfcc16b1ca3b40/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/cassim/.gradle/caches/8.12/transforms/b69fddadd08775edbdbfcc16b1ca3b40/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/cassim/.gradle/caches/8.12/transforms/b69fddadd08775edbdbfcc16b1ca3b40/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/cassim/.gradle/caches/8.12/transforms/b69fddadd08775edbdbfcc16b1ca3b40/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/cassim/.gradle/caches/8.12/transforms/b69fddadd08775edbdbfcc16b1ca3b40/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/cassim/.gradle/caches/8.12/transforms/b69fddadd08775edbdbfcc16b1ca3b40/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/cassim/.gradle/caches/8.12/transforms/b69fddadd08775edbdbfcc16b1ca3b40/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/cassim/.gradle/caches/8.12/transforms/b69fddadd08775edbdbfcc16b1ca3b40/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/cassim/.gradle/caches/8.12/transforms/b69fddadd08775edbdbfcc16b1ca3b40/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/cassim/.gradle/caches/8.12/transforms/b69fddadd08775edbdbfcc16b1ca3b40/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/cassim/.gradle/caches/8.12/transforms/b69fddadd08775edbdbfcc16b1ca3b40/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/cassim/.gradle/caches/8.12/transforms/b69fddadd08775edbdbfcc16b1ca3b40/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/cassim/.gradle/caches/8.12/transforms/b69fddadd08775edbdbfcc16b1ca3b40/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/cassim/.gradle/caches/8.12/transforms/b69fddadd08775edbdbfcc16b1ca3b40/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/cassim/.gradle/caches/8.12/transforms/b69fddadd08775edbdbfcc16b1ca3b40/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/cassim/.gradle/caches/8.12/transforms/b69fddadd08775edbdbfcc16b1ca3b40/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/cassim/.gradle/caches/8.12/transforms/b69fddadd08775edbdbfcc16b1ca3b40/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92

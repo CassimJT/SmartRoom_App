@@ -1,0 +1,14 @@
+-rootPath
+/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom
+-cmake-output
+-output-file
+/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/.qt/qml_imports/appSmartRoom_conf.cmake
+-importPath
+/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/SmartRoom
+-importPath
+/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom
+-importPath
+/opt/Qt/6.9.0/android_armv7/qml
+-qrcFiles
+/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/.qt/rcc/qmake_SmartRoom.qrc
+/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/.qt/rcc/appSmartRoom_raw_qml_0.qrc

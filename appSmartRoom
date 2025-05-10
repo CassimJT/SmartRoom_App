@@ -1,0 +1,8 @@
+#!/bin/sh
+
+/opt/Qt/6.9.0/gcc_64/libexec/qt-android-runner.py \
+    --adb "/home/cassim/Android/Sdk/platform-tools/adb" \
+    --build-path "/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom" \
+    --apk "/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android-build-appSmartRoom/appSmartRoom.apk" \
+    $@
+

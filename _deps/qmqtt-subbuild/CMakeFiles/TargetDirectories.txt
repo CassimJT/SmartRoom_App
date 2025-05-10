@@ -1,0 +1,3 @@
+/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/_deps/qmqtt-subbuild/CMakeFiles/qmqtt-populate.dir
+/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/_deps/qmqtt-subbuild/CMakeFiles/edit_cache.dir
+/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/_deps/qmqtt-subbuild/CMakeFiles/rebuild_cache.dir

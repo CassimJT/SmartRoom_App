@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "org.qtproject.example.appSmartRoom-debug-31:/drawable-hdpi_icon.png.flat",
+        "source": "org.qtproject.example.appSmartRoom-android-build-appSmartRoom-32:/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "org.qtproject.example.appSmartRoom-debug-31:/drawable-mdpi_icon.png.flat",
+        "source": "org.qtproject.example.appSmartRoom-android-build-appSmartRoom-32:/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "org.qtproject.example.appSmartRoom-debug-31:/drawable-ldpi_icon.png.flat",
+        "source": "org.qtproject.example.appSmartRoom-android-build-appSmartRoom-32:/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/home/cassim/.gradle/daemon/8.12/org.qtproject.example.appSmartRoom-debug-31:/xml_qtprovider_paths.xml.flat",
+        "source": "/home/cassim/.gradle/daemon/8.12/org.qtproject.example.appSmartRoom-android-build-appSmartRoom-32:/xml/qtprovider_paths.xml"
+    }
+]

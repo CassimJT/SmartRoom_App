@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Assert/icons8-thermometer-100.png</file>
+        <file>Assert/fan.png</file>
+    </qresource>
+</RCC>

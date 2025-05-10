@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="/qt/qml/SmartRoom/">
+    <file alias="Main.qml">/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/Main.qml</file>
+    <file alias="CircularProgressBar.qml">/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/CircularProgressBar.qml</file>
+    <file alias="android/AndroidManifest.xml">/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android/AndroidManifest.xml</file>
+    <file alias="android/build.gradle">/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android/build.gradle</file>
+    <file alias="android/res/values/libs.xml">/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android/res/values/libs.xml</file>
+    <file alias="android/res/xml/qtprovider_paths.xml">/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android/res/xml/qtprovider_paths.xml</file>
+    <file alias="android/gradle/wrapper/gradle-wrapper.jar">/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android/gradle/wrapper/gradle-wrapper.jar</file>
+    <file alias="android/gradle/wrapper/gradle-wrapper.properties">/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android/gradle/wrapper/gradle-wrapper.properties</file>
+    <file alias="android/gradle.properties">/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android/gradle.properties</file>
+    <file alias="android/gradlew">/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android/gradlew</file>
+    <file alias="android/gradlew.bat">/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/android/gradlew.bat</file>
+  </qresource>
+</RCC>
+

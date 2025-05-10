@@ -1,0 +1,61 @@
+import QtQuick
+import QtQuick.Controls
+
+ApplicationWindow {
+    width: 640
+    height: 480
+    visible: true
+    title: qsTr("Smart Room")
+    Item {
+        id: home
+        anchors.fill: parent
+
+        CircularProgressBar {
+            id:progressBar
+            anchors.centerIn: parent
+            progressColor: "#ff559a"
+            bgStrokeColor: "#333"
+            strokeBgWidth: 9
+            progressWidth: 14
+            value: parseFloat(Systemcontroller.temp)
+            textSize: 30
+            textColor: "Cyan"
+        }
+
+        Image {
+            id: fan
+            source: "qrc:/Assert/fan.png"
+            width: 48
+            height: width
+            fillMode: Image.PreserveAspectFit
+            property bool clicked: false
+            opacity: clicked ? 1 : 0.5
+            anchors {
+                horizontalCenter: parent.horizontalCenter
+                top: progressBar.bottom
+                topMargin: 10
+            }
+            MouseArea {
+                id: mousearea
+                anchors.fill: parent
+                onClicked: {
+                    fan.clicked = !fan.clicked;
+                    if (fan.clicked) {
+                        console.log("on");
+                        Systemcontroller.publishFanState(true);
+                    } else {
+                        console.log("off");
+                        Systemcontroller.publishFanState(false);
+                    }
+                }
+            }
+        }
+
+    }
+    Connections{
+        target:Systemcontroller
+        onTempChanged: function() {
+            console.log(Systemcontroller.temp)
+        }
+    }
+}

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/SmartRoom">
+    <file alias="qmldir">/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/build/Desktop_Qt_6_9_0-Debug/SmartRoom/qmldir</file>
+  </qresource>
+</RCC>
+

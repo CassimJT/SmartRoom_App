@@ -1,0 +1,213 @@
+{
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"qt_internal_show_extra_ide_sources",
+			"qt_build_repo_end",
+			"qt_build_repo"
+		],
+		"files" : 
+		[
+			"/opt/Qt/6.9.0/android_armv7/lib/cmake/Qt6/QtBuildRepoHelpers.cmake",
+			"core/qtmqtt/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 19,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 571,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 399,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 495,
+				"parent" : 3
+			}
+		]
+	},
+	"id" : "qtmqtt_cmake_files::@09c19d9fef0a545ebecb",
+	"name" : "qtmqtt_cmake_files",
+	"paths" : 
+	{
+		"build" : "core/qtmqtt",
+		"source" : "core/qtmqtt"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"name" : "qt_sbom",
+			"sourceIndexes" : 
+			[
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			]
+		},
+		{
+			"name" : "src",
+			"sourceIndexes" : 
+			[
+				9,
+				10
+			]
+		},
+		{
+			"name" : "src\\mqtt\\CMakeFiles\\Export\\4fad7c2282f83b62338f8317ce35cfb1",
+			"sourceIndexes" : 
+			[
+				11,
+				12
+			]
+		},
+		{
+			"name" : "src\\mqtt\\CMakeFiles\\Export\\dac601b1891e607c607dfe086e9e4bc2",
+			"sourceIndexes" : 
+			[
+				13
+			]
+		},
+		{
+			"name" : "src\\mqtt",
+			"sourceIndexes" : 
+			[
+				14,
+				16
+			]
+		},
+		{
+			"name" : "src\\mqtt\\Debug",
+			"sourceIndexes" : 
+			[
+				15
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 4,
+			"path" : "core/qtmqtt/.cmake.conf",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"path" : "core/qtmqtt/CTestTestfile.cmake",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"path" : "core/qtmqtt/cmake_install.cmake",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "core/qtmqtt/qt_sbom/DocumentRef-qtbase.cmake",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "core/qtmqtt/qt_sbom/SPDXRef-LicenseRef-Qt-Commercial-0.cmake",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "core/qtmqtt/qt_sbom/SPDXRef-Package-qtmqtt-qt-module-Mqtt.cmake",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "core/qtmqtt/qt_sbom/SPDXRef-PackagedFile-qt-module-Mqtt.cmake",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "core/qtmqtt/qt_sbom/append_document_to_staging.cmake",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "core/qtmqtt/qt_sbom/assemble_sbom.cmake",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"path" : "core/qtmqtt/src/CTestTestfile.cmake",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 4,
+			"path" : "core/qtmqtt/src/cmake_install.cmake",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 4,
+			"path" : "core/qtmqtt/src/mqtt/CMakeFiles/Export/4fad7c2282f83b62338f8317ce35cfb1/Qt6MqttTargets-debug.cmake",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 4,
+			"path" : "core/qtmqtt/src/mqtt/CMakeFiles/Export/4fad7c2282f83b62338f8317ce35cfb1/Qt6MqttTargets.cmake",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 4,
+			"path" : "core/qtmqtt/src/mqtt/CMakeFiles/Export/dac601b1891e607c607dfe086e9e4bc2/Qt6MqttPrivateTargets.cmake",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 4,
+			"path" : "core/qtmqtt/src/mqtt/CTestTestfile.cmake",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "core/qtmqtt/src/mqtt/Debug/qt_lib_mqtt_private.cmake",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 4,
+			"path" : "core/qtmqtt/src/mqtt/cmake_install.cmake",
+			"sourceGroupIndex" : 5
+		}
+	],
+	"type" : "UTILITY"
+}

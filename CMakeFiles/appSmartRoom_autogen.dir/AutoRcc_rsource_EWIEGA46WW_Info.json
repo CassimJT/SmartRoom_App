@@ -1,0 +1,26 @@
+{
+	"BUILD_DIR" : "/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/appSmartRoom_autogen",
+	"CMAKE_BINARY_DIR" : "/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom",
+	"CMAKE_SOURCE_DIR" : "/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/appSmartRoom_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/Assert/fan.png",
+		"/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/Assert/icons8-thermometer-100.png"
+	],
+	"LOCK_FILE" : "/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/CMakeFiles/appSmartRoom_autogen.dir/AutoRcc_rsource_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "rsource" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_rsource.cpp",
+	"RCC_EXECUTABLE" : "/opt/Qt/6.9.0/gcc_64/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/CMakeFiles/appSmartRoom_autogen.dir/AutoRcc_rsource_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/cassim/Csociety/Qt/Projects/IOT/SmartRoom/rsource.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}
